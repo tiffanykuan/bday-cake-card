@@ -1,8 +1,3 @@
-Sure! Here’s a clean, professional **README.md** you can use for your birthday card animation project.
-You can copy-paste this directly into a `README.md` file and tweak any details to match your project 👍
-
----
-
 ### 🎉 Birthday Card Animation
 
 A fun and interactive animated birthday card created using code. This project displays a digital greeting card with animations to celebrate a special birthday moment.
